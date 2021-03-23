@@ -4,52 +4,30 @@
       "id": 1,
       "title": "Spider-Man: Far from Home",
       "image": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/Spider-Man-FarFromHome-rating.jpg?itok=CGe-MMMn",
-      "likes": 100,
-      "reviews": [
-        {
-          "content": "It was aight."
-        },
-        {
-          "content": "Cool story bro"
-        },
-        {
-          "content": "AHHHHMAZINNNNN!"
-        }
-      ]
+      "likes": 100
     },
     {
       "id": 2,
-      "title": "Avengers: ENDGAME",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FAvengers-Endgame-DVD-Anthony-Russo%2Fdp%2FB07SG7RGY3&psig=AOvVaw2WlRNjj-v8tvpNLRVG-kwH&ust=1616258038918000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKib6cTkvO8CFQAAAAAdAAAAABAJ",
-      "likes": 100,
-      "reviews": [
-        {
-          "content": "It was aight."
-        },
-        {
-          "content": "Cool story bro"
-        },
-        {
-          "content": "AHHHHMAZINNNNN!"
-        }
-      ]
+      "title": "Thor: Ragnarok",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
+      "likes": 100
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "content": "Yerrrr great movie"
+    },
+    {
+      "id": 2,
+      "movieId": 2,
+      "content": "Colorful movie .. very colorful."
     },
     {
       "id": 3,
-      "title": "Thor: Ragnarok",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
-      "likes": 100,
-      "reviews": [
-        {
-          "content": "It was aight."
-        },
-        {
-          "content": "Cool story bro"
-        },
-        {
-          "content": "AHHHHMAZINNNNN!"
-        }
-      ]
+      "movieId": 2,
+      "content": "It was aight"
     }
   ]
 }
